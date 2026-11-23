@@ -1,4 +1,4 @@
-# Versionamento de Dados e Modelos (`aula-ml`)
+# Versionamento de dados e modelos (`aula-ml`)
 
 Projeto prático de versionamento de dataset, partição, código, parâmetros e modelos de classificação de chamados (`comum` vs. `urgente`) com **Git** e **DVC**.
 
@@ -23,3 +23,5 @@ git clone "$URL_GITHUB" aula-ml-restauracao
 cd aula-ml-restauracao
 git switch --detach modelo-r1
 dvc pull
+
+### Atividade feita por Kauã Cavalcante (570304) - Engenharia de Sistemas Inteligentes para ATP07
